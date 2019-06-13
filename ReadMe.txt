@@ -11,7 +11,7 @@ Q3.Logistic Regression
 Q4.KNN
 
 CA2 Assignment:
-
+ 
 PCA
 LDA
 SVM
